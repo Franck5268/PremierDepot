@@ -33,3 +33,11 @@ int division(int a, int b)
 	
 	return resultat;
 }
+int factoriel(int a, int b)
+{
+	int resultat;
+	
+	resultat = n!;
+	
+	return resultat;
+}
